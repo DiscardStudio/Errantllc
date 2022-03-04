@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Errantllc.com/static/css/main.1f9fe048.css",
+    "main.js": "/Errantllc.com/static/js/main.6c43c3b8.js",
+    "static/js/787.cda612ba.chunk.js": "/Errantllc.com/static/js/787.cda612ba.chunk.js",
+    "static/media/Background.jpg": "/Errantllc.com/static/media/Background.c622f3dc5cd9fa8015ec.jpg",
+    "index.html": "/Errantllc.com/index.html",
+    "main.1f9fe048.css.map": "/Errantllc.com/static/css/main.1f9fe048.css.map",
+    "main.6c43c3b8.js.map": "/Errantllc.com/static/js/main.6c43c3b8.js.map",
+    "787.cda612ba.chunk.js.map": "/Errantllc.com/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f9fe048.css",
+    "static/js/main.6c43c3b8.js"
+  ]
+}
